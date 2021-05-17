@@ -14,6 +14,11 @@ $(function () {
     }
     
 }
+
+
+
+
+
     
 
     var termekek = {
