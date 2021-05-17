@@ -1,0 +1,18 @@
+[{
+        "ID": "0001",
+        "tNev": "Kapa",
+        "tÁr": "1000Ft",
+        "tSzin": "Fekete"
+    }, 
+    {
+        "ID": "0002",
+        "tNev": "Lapát",
+        "tÁr": "2000Ft",
+        "tSzin": "Piros"
+    },
+    {
+        "ID": "0003",
+        "tNev": "Seorű",
+        "tÁr": "500Ft",
+        "tSzin": "Barna"
+    }]
